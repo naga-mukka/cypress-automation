@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Reports folder
+cypress/reports
+
+
+# Environment-specific files
+.env
